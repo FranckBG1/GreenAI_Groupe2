@@ -1,0 +1,6 @@
+transformers
+torch
+torchvision
+datasets
+pillow
+streamlit  # (optionnel)
