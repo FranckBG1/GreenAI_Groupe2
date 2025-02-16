@@ -4,3 +4,5 @@ torchvision
 datasets
 pillow
 streamlit  # (optionnel)
+matplotlib
+codecarbon

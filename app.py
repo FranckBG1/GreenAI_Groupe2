@@ -31,7 +31,7 @@ print("✅ Modèle chargé avec succès !")
 processor = get_processor()
 
 # 🔹 Tester 2 images situées à la racine du projet
-test_images = ["./002.JPG", "./000.JPG"]  # Assure-toi que ces images existent
+test_images = ["./001.JPG", "./0004.JPG"]  # Assure-toi que ces images existent
 
 fig, axes = plt.subplots(1, len(test_images), figsize=(10, 5))
 
